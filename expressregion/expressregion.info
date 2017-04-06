@@ -1,8 +1,10 @@
 name = Express Region
 description = Simple bare output of specifed regions.
-screenshot = screenshot.png
 engine = phptemplate
 core = 7.x
+version = 7.x-1.0
+project = expressregion
+project status url = https://github.com/CuBoulder/express_output_region_theme
 
 
 
